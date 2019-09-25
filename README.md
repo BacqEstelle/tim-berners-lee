@@ -18,8 +18,11 @@ ___Durée approximative___ : 6 heures
 
 ___Contenu___ :
 > 1 fichier HTML (index)
+
 > 1 fichier css (style)
+
 > 1 dossier image (content la photo de profil et des affiches de films)
+
 
 ___Difficultés___ :
 
