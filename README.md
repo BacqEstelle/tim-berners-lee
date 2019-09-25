@@ -6,6 +6,8 @@ Apprentissage progressif du HTML/CSS.
 
 **Formation BeCode Charleroi**
 
+___url du projet:___ https://bacqestelle.github.io/tim-berners-lee/
+
 ## Objectif
   - Creation d'une page HTML/CSS
   - Utilisation de Git
