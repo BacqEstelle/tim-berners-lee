@@ -25,7 +25,7 @@ ___Difficultés___ :
 > * Mise en place d'un script en js pour le faire fonctionner.
 
 > Recherche pour mettre la photo de profil en rond :
-* utilisation d'un __border-radius: 50%;__
+> * utilisation d'un __border-radius: 50%;__
 
 
 [fontawesome]: <https://fontawesome.com/>
