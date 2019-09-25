@@ -24,7 +24,7 @@ ___Contenu___ :
 ___Difficultés___ :
 
 > Mise en place des pico avec FontAwesome :
-> * Le link en <head> n'avait pas l'air de vouloir fonctionner
+> * Le link en "<head>" n'avait pas l'air de vouloir fonctionner
 > * Mise en place d'un script en js pour le faire fonctionner.
 
 > Recherche pour mettre la photo de profil en rond :
