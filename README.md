@@ -1,7 +1,9 @@
 # Tim Berners-Lee : Project
 
 Copie d'un layout et du contenu concernant Tim Berners-Lee.
+
 Apprentissage progressif du HTML/CSS.
+
 **Formation BeCode Charleroi**
 
 ## Objectif
