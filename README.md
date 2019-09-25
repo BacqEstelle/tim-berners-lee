@@ -13,6 +13,7 @@ Apprentissage progressif du HTML/CSS.
 ## Réalisation
 
 ___Durée approximative___ : 6 heures
+
 ___Contenu___ :
 > 1 fichier HTML (index)
 > 1 fichier css (style)
